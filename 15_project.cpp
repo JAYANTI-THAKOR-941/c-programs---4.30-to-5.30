@@ -54,7 +54,7 @@ int main(){
     Bus buses[100];//object array
     
     int choice,i,searchNo;
-    
+
     bool found = false;
 
     do{
