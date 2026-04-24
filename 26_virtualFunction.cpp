@@ -4,10 +4,9 @@ using namespace std;
 class Cricket
 {
 public:
-    virtual void getTotalOver()
-    {
-        cout << "Cricket match start.!" << endl;
-    }
+
+    // pure virtual function
+    virtual void getTotalOver(){}
 };
 
 class T20Match : public Cricket
