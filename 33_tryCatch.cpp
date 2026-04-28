@@ -16,6 +16,9 @@ int main(){
     catch(const char *msg){
         cout<<msg<<endl;
     }
+    catch(...){
+        cout<<"Unkonwn error.!!"<<endl;
+    }
 
     return 0;
 }

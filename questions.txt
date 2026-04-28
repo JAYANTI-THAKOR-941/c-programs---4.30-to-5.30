@@ -1,0 +1,60 @@
+Which of the following is the correct syntax to declare a class in C++?
+class MyClass {}
+Class MyClass {}
+myclass MyClass {}
+define MyClass {}
+1
+Which keyword is used to inherit a class in C++?
+extends
+inherits
+derived
+public
+4
+What is the default access specifier for class members in C++?
+public
+private
+protected
+internal
+2
+Which function is automatically called when an object is created?
+destructor
+main
+constructor
+init
+3
+What does 'virtual' keyword do in C++?
+Creates a new thread
+Allows function overriding in derived class
+Makes a variable constant
+Declares a global function
+2
+Which operator is used to access members of a class via a pointer?
+.
+::
+->
+*
+3
+What is the output of: cout << 10 / 3; (integer division)?
+3.33
+3
+4
+0
+2
+Which of the following correctly represents multiple inheritance in C++?
+class C : class A, class B
+class C : public A, public B
+class C extends A, B
+class C inherits A and B
+2
+What is a pure virtual function?
+A function with no parameters
+A function set to 0 in the base class
+A function that returns void
+A function declared in main
+2
+Which header file is required for file handling in C++?
+<file>
+<io>
+<fstream>
+<fileio>
+3
